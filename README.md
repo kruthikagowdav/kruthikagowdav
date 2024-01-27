@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kruthikav
+- 👋 Hi, I’m @kruthika V
 - 👀 I’m interested in Data Science,Machine learning and Artificial Inntelligence
 - 🌱 I’m currently learning the Data Science,Tableau, R, MySQL,Apache, Sapark, Hadoop, SAS, Artificial intelligence and Deep learning
 - 💞️ I’m looking to collaborate on all the topics related to Data Science and AI
