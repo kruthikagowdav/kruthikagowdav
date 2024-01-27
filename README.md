@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kruthikav
 - 👀 I’m interested in Data Science,Machine learning and Artificial Inntelligence
-- 🌱 I’m currently learning the Data Science,Tableau, R, MySQL, Azure, Apache, Sapark, Hadoop, SAS, Artificial intelligence and Deep learning
+- 🌱 I’m currently learning the Data Science,Tableau, R, MySQL,Apache, Sapark, Hadoop, SAS, Artificial intelligence and Deep learning
 - 💞️ I’m looking to collaborate on all the topics related to Data Science and AI
 - 📫 How to reach me on my email-id kruthikav554@gmail.com
 
